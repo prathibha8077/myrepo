@@ -1,1 +1,1 @@
-this is js file for the dynamic webpages.
+// this is js file for the dynamic webpages.
